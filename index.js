@@ -14,3 +14,5 @@ const getPhotoUrl = selector => {
 
   return Promise.resolve(photoUrl)
 }
+
+export default getPhotoUrl
